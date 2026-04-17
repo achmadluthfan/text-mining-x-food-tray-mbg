@@ -5,15 +5,6 @@
 Hasil run text mining **X/Twitter** untuk penelitian skripsi
 **"Redesign Food Tray MBG pada Sistem Distribusi SPPG"** (Wisnu, 2026).
 
-Repo ini berisi **artefak output** dari pipeline text mining
-(raw → cleaned → relevant → coded → summary → need statements) yang
-dijalankan di atas data X periode **1 Agustus – 31 Oktober 2025**
-melalui MCP server `user-xpoz` + LLM (Claude Opus 4.7).
-
-> Pipeline, prompt, config, dan workflow runner hidup di repo induk
-> (`mbg/`). Repo ini sengaja dipisah supaya dataset + laporan bisa
-> disitasi / dibagikan tanpa membawa seluruh tooling.
-
 ---
 
 ## Ringkasan Run
